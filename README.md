@@ -18,5 +18,8 @@ Because our network is constrained by the concentricity of the visual features e
 >* The range of motion of the agent was restricted to realistic field of view of the mouse and head movements (that is, it would not be possible for the head to rotate 360 degrees)
 
 # Requirements
-- matplotlib
-- numpy
+- Packages: matplotlib, numpy
+- System: any operating system
+- Installation: no need for installation, can be ran in google.colab
+
+All results included in Figure 4 of the manuscript can be reproduced using this code.
